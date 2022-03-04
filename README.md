@@ -1,5 +1,5 @@
 # 💿 Remix.run Wallpapers
 
-Previw:
+Preview:
 
 ![Remix Wallpapers Preview](preview.png "Remix Wallpapers Preview")
